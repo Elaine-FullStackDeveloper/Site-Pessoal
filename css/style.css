@@ -1,0 +1,47 @@
+
+.inicio{
+    background-color: black;
+    color: white;
+}
+
+.inicio2{
+    background-color: black;
+    color: white;
+}
+
+.contato{
+    background-color: #696969;
+    color: black;
+}
+
+.versiculo{
+    background-color: #4F4F4F;
+    color: black;
+}
+
+.margin{
+    padding-bottom: 10px;
+    padding-top: 10px;
+}
+
+
+.margin-footer{
+    padding-bottom: 10px;
+    padding-top: 10px;
+}
+
+.bg-footer{
+    background-color: #1C1C1C;
+    color:  #696969;
+}
+
+
+.card-button {
+    width: 100%;
+    border-bottom-left-radius: 3px;
+    border-bottom-right-radius: 3px;
+    padding: 1em;
+    background-color: #141A28;
+    display: flex;
+    justify-content: center;
+}
